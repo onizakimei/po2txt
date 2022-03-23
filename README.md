@@ -5,7 +5,9 @@
 github下载：https://github.com/onizakimei/po2txt/releases/latest/
 
 <b>此软件仅供个人使用，严禁贩卖txt和软件，严禁向他人传播txt！</b>
+<br/>
 有问题私信微博 <b>@随手扫个文</b>，不过能力有限不一定能改。
+<br/>
 没问题也欢迎关注🥰（只扫言情）
 
 ## 用前须知
