@@ -3,6 +3,7 @@
 基于 https://github.com/Theseuship/PO18-Novel-Txt-Downloader 开源项目的魔改。
 
 github下载：https://github.com/onizakimei/po2txt/releases/latest/
+蓝奏云下载：https://wws.lanzouw.com/b036t738h 密码:fsfl
 
 <b>此软件仅供个人使用，严禁贩卖txt和软件，严禁向他人传播txt！</b>
 <br/>
@@ -19,12 +20,13 @@ github下载：https://github.com/onizakimei/po2txt/releases/latest/
 ## 使用方法
 1. 直接下载解压，打开exe后输入po的登陆账号和密码
 2. 输入想要下载的小说ID，ID为`小说链接/books/****`最后的那串数字
-3. 下载完成后输入1按回车可继续下载，直接回车退出程序。
+3. 下载完成后按回车可继续下载
 
 ## 魔改内容
 1. 下载时自动保存文章里的图片
 2. 以标题+作者的格式命名文件
 3. 可以一次下载多本书
 4. 自动获取本机ip、目录翻页
-5. 修复遇到特殊字符时报错的bug
-6. 修复下载带图片的章节时报错的bug
+5. 添加文字水印
+6. 修复遇到特殊字符时报错的bug
+7. 修复下载带图片的章节时报错的bug
