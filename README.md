@@ -2,7 +2,7 @@
 
 基于 https://github.com/Theseuship/PO18-Novel-Txt-Downloader 开源项目的魔改。
 
-github下载：https://github.com/onizakimei/po2txt/releases/latest/
+github下载：https://github.com/onizakimei/po2txt/releases/latest/<br/>
 蓝奏云下载：https://wws.lanzouw.com/b036t738h 密码:fsfl
 
 <b>此软件仅供个人使用，严禁贩卖txt和软件，严禁向他人传播txt！</b>
