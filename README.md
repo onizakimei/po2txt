@@ -2,8 +2,9 @@
 
 基于 https://github.com/Theseuship/PO18-Novel-Txt-Downloader 开源项目的魔改。
 
-github下载：https://github.com/onizakimei/po2txt/releases/latest/<br/>
-蓝奏云下载：https://wws.lanzouw.com/b036t738h 密码:fsfl
+github下载：https://github.com/onizakimei/po2txt/releases/latest/
+<br/>
+蓝奏云下载：https://wws.lanzouw.com/s/po2txt 密码:fsfl
 
 <b>此软件仅供个人使用，严禁贩卖txt和软件，严禁向他人传播txt！</b>
 <br/>
@@ -14,7 +15,7 @@ github下载：https://github.com/onizakimei/po2txt/releases/latest/<br/>
 ## 用前须知
 1. 直接从官网下载，需要使用代理，大陆地区无法访问。
 2. 付费章节需要购买了才能下，否则会直接跳过。
-3. 网络不稳定的话可能会下载到一半失败，请删掉已下载的txt后再重新下载，否则会直接下到同一个txt里。
+3. 网络不稳定的话可能会下载到一半闪退，请删掉已下载的txt后再重新下载，否则会直接下到同一个txt里。
 4. 若章节含有图片，会在同一目录下自动创建文件夹保存，可事后对照图片名查看。
 
 ## 使用方法
@@ -23,10 +24,18 @@ github下载：https://github.com/onizakimei/po2txt/releases/latest/<br/>
 3. 下载完成后按回车可继续下载
 
 ## 魔改内容
-1. 下载时自动保存文章里的图片
-2. 以标题+作者的格式命名文件
-3. 可以一次下载多本书
-4. 自动获取本机ip、目录翻页
-5. 添加文字水印
-6. 修复遇到特殊字符时报错的bug
-7. 修复下载带图片的章节时报错的bug
+
+* 下载时自动保存文章里的图片
+* 以标题+作者的格式命名文件
+* 可以一次下载多本书
+* 自动获取本机ip、目录翻页
+* 添加文字水印
+* 修复遇到特殊字符时报错的bug
+* 修复下载带图片的章节时报错的bug
+
+## 更新日志
+
+2022-03-25 v1.0.1
+* 解决输入账密错误时直接闪退的问题
+* 新增是否需要空行的选项
+（注：每篇文的情况不一样，如果小说本身就有空行，选择需要空行后会变成空两行影响阅读）
