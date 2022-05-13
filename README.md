@@ -6,7 +6,7 @@ github下载：https://github.com/onizakimei/po2txt/releases/latest/
 <br/>
 蓝奏云下载：https://wws.lanzouw.com/s/po2txt 密码:fsfl
 
-<b><font color=red>po2txt仅供学习交流使用，严禁用于商业用途。下载的txt禁止转载！</font></b>
+<b>po2txt仅供学习交流使用，严禁用于商业用途。下载的txt禁止转载！</b>
 <br/>
 有问题私信微博@随手扫个文或[提交issue](https://github.com/onizakimei/po2txt/issues)，<del>不过能力有限不一定能改。</del>
 <br/>
@@ -14,7 +14,7 @@ github下载：https://github.com/onizakimei/po2txt/releases/latest/
 ## 用前须知
 
 1.输入的信息只会发送给po18的服务器。
-2.直接从官网下载，<font color=red>需要使用代理</font>，大陆地区无法访问。
+2.直接从官网下载，<b>需要使用代理</b>，大陆地区无法访问。
 [梯子下载](https://kimei.lanzouw.com/s/clashforwin)
 3.付费章节需要购买了才能下，否则会直接跳过。
 4.如果要使用发送邮件功能，需要关掉杀毒软件或者添加至白名单，否则会被误报删除。
